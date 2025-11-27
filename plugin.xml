@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>CheckMissingChapters</name>
+    <type>edit</type>
+    <author>Jules</author>
+    <version>0.1.0</version>
+    <description>Analyzes nav.xhtml to detect missing chapter numbers (supports Arabic and Chinese numerals).</description>
+    <engine>python3.4</engine>
+    <oslist>osx,win,unx</oslist>
+</plugin>
